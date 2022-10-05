@@ -1,4 +1,4 @@
-# Data science
+# Data Science
 # Tech Generation - Unimed-BH 
 
 ## Course - Digital Innovation One 
