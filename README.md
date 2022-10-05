@@ -18,3 +18,7 @@ The following topics were covered in this immersion:
 * Machine Learning
 
 
+### Code challenges
+
+
+### Projects
