@@ -4,5 +4,14 @@
 ## Course - Digital Innovation One 
 
 
-My repository of the Data Science bootcamp by Digital Innovation One in partnership with Unimed BH
+This repository shows my projects during the Data Science bootcamp by Digital Innovation One (DIO) in partnership with Unimed BH.
+
+The following topics were covered in this immersion:
+
+* Onboarding
+* Python for Data Science
+* SQL and NoSQL database
+* Cloud Computer
+* Machine Learning
+
 
