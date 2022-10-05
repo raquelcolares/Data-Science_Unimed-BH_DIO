@@ -3,7 +3,7 @@
 
 ## Course - Digital Innovation One 
 
-<img src="https://github.com/raquelcolares/Data-Science_Unimed-BH_DIO/blob/main/unimed-image.png" width="350" height="160">         <img src="https://github.com/raquelcolares/Database_Experience-DIO/blob/main/images/dio%20logo.jpg" width="350" height="160" >
+<img src="https://github.com/raquelcolares/Data-Science_Unimed-BH_DIO/blob/main/unimed-image.png" width="350" height="160">         <img src="https://github.com/raquelcolares/Data-Science_Unimed-BH_DIO/blob/main/dio%20logo.jpg" width="350" height="160" >
 
 -------
 
