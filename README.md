@@ -20,6 +20,8 @@ The following topics were covered in this immersion:
 
 ### Code challenges
 
+* The Two Towers
+
 
 ### Projects
 
