@@ -21,6 +21,7 @@ The following topics were covered:
 ### Code challenges
 
 * The Two Towers
+* Hot Dogs
 
 
 ### Projects
