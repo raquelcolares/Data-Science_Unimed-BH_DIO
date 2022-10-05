@@ -22,6 +22,7 @@ The following topics were covered:
 
 * The Two Towers
 * Hot Dogs
+* Fuel Spent
 
 
 ### Projects
