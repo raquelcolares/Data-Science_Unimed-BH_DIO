@@ -9,7 +9,7 @@
 
 This repository shows my projects during the Data Science bootcamp by Digital Innovation One (DIO) in partnership with Unimed BH.
 
-The following topics were covered in this immersion:
+The following topics were covered:
 
 * Onboarding
 * Python for Data Science
