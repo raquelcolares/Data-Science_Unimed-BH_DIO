@@ -24,6 +24,7 @@ The following topics were covered:
 * Hot Dogs
 * Fuel Spent
 * Alphabet
+* Polyglot Parrot
 
 
 ### Projects
