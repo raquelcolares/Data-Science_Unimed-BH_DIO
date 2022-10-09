@@ -23,6 +23,11 @@ The input contains only a floating point value, which can be greater than or equ
 |      1000      | Novo salario: 1120.00  |
 |                | Reajuste ganho: 120.00 |
 |                | Em percentual: 12 %    |
+
+
+
+| Input Samples  |    Output Samples      |
+| -------------- | ---------------------- |
 |      2000      | Novo salario: 2200.00  |
 |                | Reajuste ganho: 200.00 |
 |                | Em percentual: 10 %    |
