@@ -15,3 +15,14 @@ The company you work for decided to grant a salary increase to all employees, ac
 Read the employee's salary and calculate and display the new salary, as well as the earned readjustment amount and the readjusted index, in percentage.
 
 The input contains only a floating point value, which can be greater than or equal to zero, with two decimal places, as shown in the examples below.
+
+
+
+| Input Samples  |    Output Samples      |
+| -------------- | ---------------------- |
+|      1000      | Novo salario: 1120.00  |
+|                | Reajuste ganho: 120.00 |
+|                | Em percentual: 12 %    |
+|      2000      | Novo salario: 2200.00  |
+|                | Reajuste ganho: 200.00 |
+|                | Em percentual: 10 %    |
