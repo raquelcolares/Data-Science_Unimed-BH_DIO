@@ -1,1 +1,17 @@
+## Salary Increase
 
+The company you work for decided to grant a salary increase to all employees, according to the table below:
+
+|    Salary          | Readjustment Percentage |
+| ------------------ | ----------------------- |
+|  0 - 600.00        |            17%          |
+|  600.01 - 900.00   |            13%          |
+|  900.01 - 1500.00  |            12%          |
+|  1500.01 - 2000.00 |            10%          |
+|  Acima de 2000.00  |            5%           |
+
+
+
+Read the employee's salary and calculate and display the new salary, as well as the earned readjustment amount and the readjusted index, in percentage.
+
+The input contains only a floating point value, which can be greater than or equal to zero, with two decimal places, as shown in the examples below.
