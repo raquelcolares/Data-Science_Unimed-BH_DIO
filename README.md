@@ -25,6 +25,7 @@ The following topics were covered:
 * Fuel Spent
 * Alphabet
 * Polyglot Parrot
+* Salary Increase
 
 
 ### Projects
