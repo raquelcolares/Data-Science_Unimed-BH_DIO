@@ -19,6 +19,8 @@ Due to the greater number of cases in Brazil, the purpose of this project was to
 
 
 ## References
+
 **Digital Innovation One** - https://www.dio.me/ - Prof. Dr. Neylson Crepalde
+
 **Wikipedia** - https://en.wikipedia.org/wiki/COVID-19_pandemic
 
