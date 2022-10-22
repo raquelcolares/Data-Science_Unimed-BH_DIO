@@ -1,7 +1,7 @@
 # Amazon Athena
 
 
-## Serviços utilizados nessa atividade prática
+## Serviços utilizados nesse projeto
  - Amazon S3
  - Amazon Glue
  - Amazon Athena
@@ -51,7 +51,7 @@
  - Exluir os elementos criados
 
 
-## Reference
+## Referência
 Digital Innovation One - https://www.dio.me/ - Prof. Cassiano Ricardo de Oliveira Peres
 
 
