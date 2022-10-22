@@ -1,15 +1,15 @@
-# dio
+# Amazon Athena
 
 
-### Serviços utilizados nessa atividade prática
+## Serviços utilizados nessa atividade prática
  - Amazon S3
  - Amazon Glue
  - Amazon Athena
  - Amazon QuickSight
 
-### Etapas para desenvolvimento
+## Etapas para desenvolvimento
 
-### Criar bucket no Amazon S3
+### 1 - Criar bucket no Amazon S3
 
 - Amazon S3 Console -> Buckets -> Create bucket -> Bucket name [nome_do bucket] - Create bucket
 - Create folder (Criar uma pasta chamada ```/output``` e outra com o nome do seu conjunto de dados. Este nome irá definir o nome da tabela criada no Glue)
@@ -27,7 +27,7 @@
 - Finish
 - Databases -> Tables -> Visualizar dados das tabelas criadas
 
-### Criar aplicação no Amazon Athena
+### 2 - Criar aplicação no Amazon Athena
 
 - Query editor -> Settings -> Manage settings -> Query result location and encryption -> Browse S3 -> selecionar o bucket criado
 - Selecionar Database -> criar queries (exemplos na pasta ```/src```)
@@ -40,13 +40,18 @@
 - Copiar a query gerada
 - Selecionar o DB e criar a nova tabela em uma nova query
 
-### Visualizar dados no Amazon QuickSight
+### 3 - Visualizar dados no Amazon QuickSight
 
 - Signup (caso não tenha conta) -> Escolher [Standard]
 - Datasets -> Create new dataset -> Athena -> Name [NomeDoDataSet] -> Create
 - Select database -> select table -> Edit or preview -> Save & visualize
 - Criar visualizações selecionando colunas, criando filtros e parâmetros e selecionando Visual types para gráficos.
 
-### Eliminar recursos
+### 4 - Eliminar recursos
  - Exluir os elementos criados
+
+
+## Reference
+Digital Innovation One - https://www.dio.me/ - Prof. Cassiano Ricardo de Oliveira Peres
+
 
