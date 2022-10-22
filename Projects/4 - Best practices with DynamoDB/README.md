@@ -1,11 +1,11 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Amazon DynamoDB
 
-### Serviço utilizado
+
+## Serviço utilizado
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
 
-### Comandos para execução do experimento:
+## Comandos para execução do experimento:
 
 
 - Criar uma tabela
@@ -121,3 +121,9 @@ aws dynamodb query \
     --key-condition-expression "SongTitle = :v_song and SongYear = :v_year" \
     --expression-attribute-values  '{":v_song":{"S":"Wasting Love"},":v_year":{"S":"1992"} }'
 ```
+
+
+## Referência
+Digital Innovation One - https://www.dio.me/ - Prof. Cassiano Ricardo de Oliveira Peres
+
+
