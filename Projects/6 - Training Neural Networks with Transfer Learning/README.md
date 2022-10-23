@@ -9,8 +9,7 @@
 The project consists of applying the Transfer Learning method in a Deep Learning network in Python programming language.
 
 Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.
-
-For this project the dataset contains two class of images Cats and Dogs
+For this project the dataset contains two class of images Cats and Dogs.
 
 
 
